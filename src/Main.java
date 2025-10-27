@@ -24,5 +24,6 @@ public class Main {
         // Test untuk Child
         MainApp person3 = new MainApp("Andi", 40, 1.50, "Child", 12);
         person3.displayInfo();
+        System.out.println(">>> Semoga sehat selalu! <<<\n");
     }
 }
